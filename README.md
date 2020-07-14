@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on @status-im
+- 🔭 I’m currently working
 - 🌱 I’m currently learning React, Best Practices and lots of things!
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about JavaScript!
